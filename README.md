@@ -10,7 +10,7 @@ The ministry has developed a program for entering data, generating it into a JSO
 The program is convenient for small businesses. Large enterprises use their programs to generate the required files. 
 One of these enterprises is mine. 
 Unfortunately, this our and ministry's programs does not provide an opportunity to conveniently control the content of the file. 
-My programmers couldn't help me either. I had to get down to business myself ;) ;) ;) and get such an easy application that helps to convert a JSON-like file to Excel.
+This is easy application that helps to convert a JSON-like file to Excel.
 Initially, I wanted to limit myself to the function of opening a file and processing it by Pandas, but then I decided that this application could be useful to someone else. 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -19,6 +19,6 @@ Initially, I wanted to limit myself to the function of opening a file and proces
 
 Программа удобна для маленьких предприятий. Большие предприятия используют свои программы для формирования нужных файлов. 
 Одно из таких предприятий - моё. 
-К сожалению, программа министерства? да и наша тоже, не дает возможности в удобном виде проконтролировать наполнение файла. 
-Мои программисты тоже не смогли мне помочь. Пришлось взяться за дело самому ;) ;) ;) и получить вот такое легкой приложение которое помогает сконвертировать JSON-подобный файл в талицу Excel.
+К сожалению, программа министерства, да и наша тоже, не дает возможности в удобном виде проконтролировать наполнение файла. 
+Получилось легкое приложение которое помогает сконвертировать JSON-подобный файл в талицу Excel.
 Первоначально хотел ограничиться функцией открытия файла и обработкой его Пандас, но потом решил, что данное приложение может быть полезно кому-то еще.
